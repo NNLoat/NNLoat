@@ -1,4 +1,11 @@
-## Hi there 👋
+```console
+$ git init --world-domination
+pre github_profile_init_version
+entering coffee wait...
+README init stage 2 finished
+All your repos belong to us!
+All done!
+```
 
 <!--
 **NNLoat/NNLoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
