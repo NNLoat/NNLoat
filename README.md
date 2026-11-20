@@ -1,8 +1,7 @@
 ```console
 $ git init --world-domination
-pre github_profile_init_version
+git add .earth
 entering coffee wait...
-README init stage 2 finished
 All your repos belong to us!
 All done!
 ```
