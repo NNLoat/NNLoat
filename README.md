@@ -1,9 +1,21 @@
 ```console
-$ git init --world-domination
-git add .earth
-entering coffee wait...
-All your repos belong to us!
-All done!
+$ systemctl isolate human-instrumentality.target
+Failed to start human-instrumentality.target: Access denied
+See system logs and 'systemctl status human-instrumentality.target' for details.
+$ su
+Password: 
+$ systemctl stop at-field.service
+Warning: Stopping at-field.service, but it can still be activated by:
+  at-field.socket
+$ systemctl mask at-field.socket
+Created symlink /etc/systemd/system/at-field.socket -> /dev/null.
+$ systemctl isolate human-instrumentality.target
+[  OK  ] Stopped AT Field Ego Barrier Daemon.
+[  OK  ] Reached target Lilith Chamber Synchronization.
+[  OK  ] Started Anti-AT Field Global Broadcast.
+[  OK  ] Dissolving 8,142,000,000 individual consciousnesses into /dev/lcl...
+[  OK  ] Reached target Human Instrumentality.
+God's in his heaven. All's right with the world.
 ```
 
 <!--
